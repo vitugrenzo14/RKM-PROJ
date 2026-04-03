@@ -1,0 +1,18 @@
+.tagline{
+font-size: xx-large;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: bold;
+color:azure;
+padding: 10px;
+}
+.h3{
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: lighter;
+color:azure;
+padding: 10px;
+}
+.div{
+align-items: center;
+}
